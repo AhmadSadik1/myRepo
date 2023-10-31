@@ -1,3 +1,3 @@
-from experta import * 
+# from experta import * 
 
-class mechanic
+# class mechanic
