@@ -26,6 +26,8 @@ class RCS(KnowledgeEngine):
         print('Check Screen card')
 
     @Rule(Fact(Screen_Turn_On=L(False)))
+    خ
+    
     def scr_off(self):
         print('Check power cable')
 
